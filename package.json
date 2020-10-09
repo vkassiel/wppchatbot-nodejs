@@ -1,0 +1,25 @@
+{
+  "name": "wppbot-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkassiel/wppbot-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkassiel/wppbot-nodejs/issues"
+  },
+  "dependencies": {
+    "request": "^2.88.2",
+    "rxjs": "^6.6.3",
+    "venom-bot": "^2.0.8"
+  }
+}
